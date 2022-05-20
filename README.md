@@ -1,2 +1,5 @@
 # Javascript
-Some project written in Javascript
+Some projects written in Javascript
+
+1: Calculator
+
